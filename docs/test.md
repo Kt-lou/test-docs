@@ -7,4 +7,4 @@ The User Guide is permission-based. Users with the correct permissions will have
 2. Enter username.
 3. Enter password.
 
-<img src="docs/images/test_login_page.PNG" width="400">
+![Login Screen](images/test_login_page.PNG)
