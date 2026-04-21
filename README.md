@@ -1,4 +1,4 @@
-# Documentation
+
 # Technical Documentation Portfolio
 
 This repository contains a sample documentation set built in GitHub using Markdown, organized as a modular, version-controlled documentation system.
